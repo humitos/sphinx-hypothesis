@@ -3,34 +3,28 @@ sphinx-hypothesis
 =================
 
 
-.. image:: https://img.shields.io/pypi/v/sphinxhypothesis.svg
-        :target: https://pypi.python.org/pypi/sphinxhypothesis
+.. image:: https://img.shields.io/pypi/v/sphinx-hypothesis.svg
+        :target: https://pypi.python.org/pypi/sphinx-hypothesis
 
-.. image:: https://img.shields.io/travis/humitos/sphinxhypothesis.svg
-        :target: https://travis-ci.com/humitos/sphinxhypothesis
+.. image:: https://img.shields.io/travis/humitos/sphinx-hypothesis.svg
+        :target: https://travis-ci.com/humitos/sphinx-hypothesis
 
-.. image:: https://readthedocs.org/projects/sphinxhypothesis/badge/?version=latest
-        :target: https://sphinxhypothesis.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/sphinx-hypothesis/badge/?version=latest
+        :target: https://sphinx-hypothesis.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/humitos/sphinxhypothesis/shield.svg
-     :target: https://pyup.io/repos/github/humitos/sphinxhypothesis/
+.. image:: https://pyup.io/repos/github/humitos/sphinx-hypothesis/shield.svg
+     :target: https://pyup.io/repos/github/humitos/sphinx-hypothesis/
      :alt: Updates
-
 
 
 sphinx-hypothesis enables https://web.hypothes.is/ in your Sphinx documentation
 
 
 * Free software: MIT license
-* Documentation: https://sphinxhypothesis.readthedocs.io.
+* Documentation: https://sphinx-hypothesis.readthedocs.io.
 
-
-Features
---------
-
-* TODO
 
 Credits
 -------
